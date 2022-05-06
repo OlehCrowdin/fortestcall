@@ -1,0 +1,7 @@
+{
+    "Key1": "I have {numCats, number} cats.",
+    "Key2": "Almost {pctBlack, number, percent} of them are black.",
+    "key4": "Coupon expires at {expires, time, short}.",
+    "key5": "{gender, select, male {He} female {She} other {They} } will respond shortly.",
+    "key6": "Cart: {itemCount} {itemCount, plural, one {item} other {items} }"         
+}
