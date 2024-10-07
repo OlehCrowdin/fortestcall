@@ -1,5 +1,5 @@
 files:
   - source: /src/main/*_en.json
-    translation: /%original_path%/*_%two_letters_code%.json
+    translation: /%original_path%/%original_file_name%_%two_letters_code%.json
     translation_replace:
       "_en": ""
